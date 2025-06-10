@@ -11,7 +11,7 @@ A comprehensive web-based tool for analyzing and reviewing Rebol 3 scripts with 
 - **Detailed Reporting**: Multi-tab analysis results with metrics and recommendations
 - **Sample Scripts**: Built-in sample script loader for testing
 
-![UI Screenshot](screenshots/recommendations.png)
+![UI Recommendations_Screenshot](screenshots/Screenshot 2025-06-10 133706.png)
 
 ## Installation
 
